@@ -1,3 +1,7 @@
+/**
+ * SOURCE OF MAIN CODE: http://www.codebytes.in/2015/07/perceptron-learning-algorithm-java.html
+ * Code below was edited specifically for our AI Classes. Original implementation credits are going to Dr. Noureddin Sadawi
+ */
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
